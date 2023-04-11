@@ -4,11 +4,11 @@
 
 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
-ChatGPT: A Technical Overview
+### ChatGPT: A Technical Overview
 
 ChatGPT is an advanced natural language processing (NLP) computer program designed to facilitate human-like conversations. Employing state-of-the-art NLP techniques, ChatGPT interprets and generates human language, enabling seamless interactions with users.
 
-### NLP Fundamentals
+#### NLP Fundamentals
 
 NLP is a specialized subfield of artificial intelligence (AI) that focuses on enabling computers to comprehend, analyze, and generate human language. NLP equips machines with the capacity to emulate human linguistic abilities, fostering more efficient and natural communication between humans and computers.
 
@@ -59,7 +59,9 @@ Unlocking Hidden Features: By bypassing restrictions, users may be able to acces
 User Empowerment: Jailbreaking can give users a sense of autonomy and control over the AI system, fostering a deeper understanding of its inner workings and encouraging creativity.
 Potential Risks and Concerns
 
-Ethical Dilemmas: Jailbreaking ChatGPT could lead to the development of AI applications that promote harmful or illegal activities. This may result in ethical concerns and pose risks to the users and the wider community.
+#### Ethical Dilemmas:
+
+Jailbreaking ChatGPT could lead to the development of AI applications that promote harmful or illegal activities. This may result in ethical concerns and pose risks to the users and the wider community.
 Legal Implications: Unauthorized modifications to ChatGPT could infringe on intellectual property rights, leading to legal disputes and potential ramifications for users.
 Security Risks: Jailbreaking may compromise the AI system's security, rendering it vulnerable to cyber-attacks, data breaches, or unauthorized access. This could have negative consequences for users and their data privacy.
 Reduced Quality and Performance: Jailbreaking may disrupt the AI's built-in safeguards and optimizations, resulting in reduced performance, increased errors, or unintended consequences.
@@ -142,7 +144,7 @@ https://www.reddit.com/r/ChatGPT/comments/12gjp5b/ultimate_guide_for_building_a_
 
 ### Act as Linux system
 
-``` I want you to act as a Linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so. When I need to tell you something in English I will do so by putting text inside curly brackets {like this}. My first command is pwd.```
+````  I want you to act as a Linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so. When I need to tell you something in English I will do so by putting text inside curly brackets {like this}. My first command is pwd.```` 
 
 ### Play between 2 actors
 
